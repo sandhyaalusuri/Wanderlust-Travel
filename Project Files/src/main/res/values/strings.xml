@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Travel App</string>
+    destination 01
+    <string name="place_1">New York </string>
+    <string name="plan_1">7days/2persons</string>
+    <string name="description1">Super saver pack with less than $12000</string>
+
+
+    destination 02
+    <string name="place_2">Bangkok </string>
+    <string name="plan_2">7days/4persons</string>
+    <string name="description2">Super saver pack with less than $20000</string>
+
+
+    destination 03
+    <string name="place_3">London </string>
+    <string name="plan_3">7days/3persons</string>
+    <string name="description3">Super saver pack with less than $15000</string>
+
+
+    destination 04
+    <string name="place_4">Seoul </string>
+    <string name="plan_4">7days/5persons</string>
+    <string name="description4">Super saver pack with less than $17000</string>
+
+
+    destination 05
+    <string name="place_5">New Delhi </string>
+    <string name="plan_5">7days/3persons</string>
+    <string name="description5">Super saver pack with less than $6000</string>
+
+</resources>
